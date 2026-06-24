@@ -1,0 +1,8 @@
+"""
+Constants for the iBoss Integration.
+"""
+
+INTEGRATION_NAME = "iBoss"
+INTEGRATION_DISPLAY_NAME = "iBoss Cloud Gateway"
+PING_SCRIPT_NAME = f"{INTEGRATION_DISPLAY_NAME} - Ping"
+BLOCK_URL_SCRIPT_NAME = f"{INTEGRATION_DISPLAY_NAME} - Block URL"

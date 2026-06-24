@@ -1,0 +1,6 @@
+- description: Initial release
+  integration_version: 1.0
+  item_name: iBoss
+  item_type: Integration
+  new: true
+  publish_time: '2026-06-23'

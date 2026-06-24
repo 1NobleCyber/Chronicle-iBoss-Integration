@@ -1,0 +1,6 @@
+name: Ping
+description: Test connectivity and authentication to the iBoss API. Run this action after configuring the integration to verify credentials are valid.
+integration_identifier: iBoss
+parameters: []
+dynamic_results_metadata: []
+creator: iBoss

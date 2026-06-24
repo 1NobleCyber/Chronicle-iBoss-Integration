@@ -1,0 +1,21 @@
+identifier: iBoss
+name: iBoss Cloud Gateway
+parameters:
+-   name: iboss_username
+    default_value: ''
+    type: string
+    description: iBoss Username used to authenticate with the iBoss API.
+    is_mandatory: true
+    integration_identifier: iBoss
+-   name: iboss_password
+    default_value: ''
+    type: password
+    description: iBoss Password used to authenticate with the iBoss API.
+    is_mandatory: true
+    integration_identifier: iBoss
+documentation_link: https://www.iboss.com
+categories:
+- Network Security
+- Security
+svg_logo_path: resources/logo.svg
+image_path: resources/image.png
